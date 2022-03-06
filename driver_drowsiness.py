@@ -1,5 +1,5 @@
 #Importing OpenCV Library for basic image processing functions
- from OpenCV import cv2
+from OpenCV import cv2
 # Numpy for array related functions
 import numpy as np
 # Dlib for deep learning based Modules and face landmark detection
